@@ -26,3 +26,7 @@ Entering a char instead of a numerical value for "Enter val: " will cause the pr
           **.local/lib/python3.8/site-packages/shakespearelang**
 4. Download runningcalc.spl and run the command:
            **shakespeare run runningcalc.spl**
+
+**Side Note**
+
+The formatting of the SPL file was messed with during upload. Feel free to change it if it bothers you when you download it.
