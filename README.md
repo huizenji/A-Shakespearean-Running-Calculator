@@ -16,12 +16,12 @@ Entering a char instead of a numerical value for "Enter val: " will cause the pr
      
 **Set-Up Instructions**
 
-1. Create a new directory and run
+1. Create a new directory and run:
         **pip install shakespearelang**
-2. Add the interpreter from your local bin, or whereever it is, to your PATH.
+2. Add the interpreter from your local bin, or whereever it is, to your PATH:
         **export PATH="$HOME/.local/bin:$PATH"**
 3. Replace the shakespeare_interpreter.py file with my altered copy included in this repository. 
     Original file may be found here:
           **.local/lib/python3.8/site-packages/shakespearelang**
-4. Download runningcalc.spl and run the command
+4. Download runningcalc.spl and run the command:
            **shakespeare run runningcalc.spl**
